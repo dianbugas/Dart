@@ -16,4 +16,4 @@ print(halo);
 
 ---
 
-[Materi selanjutnya >>](https://github.com/bellshade/Dart/tree/main/basic/2_tipe_data)
+[Materi selanjutnya >>](https://github.com/Dart/tree/main/basic/2_tipe_data)
